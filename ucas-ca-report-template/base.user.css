@@ -1,0 +1,49 @@
+/*font-family*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family:
+        'Times New Roman',
+        'Simhei Regular',
+}
+body,
+p,
+blockquote,
+blockquote blockquote {
+    font-family:
+        'Times New Roman',
+        'Simsun',
+}
+code,
+pre,
+pre code {
+    font-family:
+        'Consolas',
+        'Simhei Regular',
+}
+
+/*font-size*/
+/*1*/
+h2{
+    font-size:15pt;
+}
+/*2*/
+h3{
+    font-size:14pt;
+}
+/*3*/
+h4{
+    font-size:12pt;
+}
+/*4*/
+h5{
+    font-size: 10.5pt;
+}
+/*body*/
+body,
+p{
+    font-size:10.5pt;
+}
